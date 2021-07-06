@@ -1,4 +1,4 @@
-# digitalocean-terraform
+# Deploy infraestructure on DigitalOcean with Terraform
 
 In order to generate ssh keys you need execute next command
 
